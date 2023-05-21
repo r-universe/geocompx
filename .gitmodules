@@ -69,8 +69,3 @@
 	url = https://github.com/RaphaelS1/survivalmodels
 	shallow = true
 	registered = false
-[submodule "tmap"]
-	path = tmap
-	url = https://github.com/mtennekes/tmap
-	shallow = true
-	registered = false
