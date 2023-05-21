@@ -29,19 +29,9 @@
 	url = https://github.com/mlr-org/mlr3extralearners
 	shallow = true
 	registered = false
-[submodule "mlr3filters"]
-	path = mlr3filters
-	url = https://github.com/mlr-org/mlr3filters
-	shallow = true
-	registered = false
 [submodule "mlr3proba"]
 	path = mlr3proba
 	url = https://github.com/mlr-org/mlr3proba
-	shallow = true
-	registered = false
-[submodule "mlr3spatiotempcv"]
-	path = mlr3spatiotempcv
-	url = https://github.com/mlr-org/mlr3spatiotempcv
 	shallow = true
 	registered = false
 [submodule "param6"]
@@ -51,7 +41,7 @@
 	registered = false
 [submodule "qgisprocess"]
 	path = qgisprocess
-	url = https://github.com/paleolimbot/qgisprocess
+	url = https://github.com/r-spatial/qgisprocess
 	shallow = true
 	registered = false
 [submodule "set6"]

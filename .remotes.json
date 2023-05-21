@@ -31,39 +31,15 @@
     "from": "geocompkg"
   },
   {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
     "package": "mlr3extralearners",
     "url": "https://github.com/mlr-org/mlr3extralearners",
     "via": ["geocompkg"],
     "from": "geocompkg"
   },
   {
-    "package": "mlr3filters",
-    "url": "https://github.com/mlr-org/mlr3filters",
-    "via": ["geocompkg", "mlr3spatiotempcv"],
-    "from": "geocompkg"
-  },
-  {
     "package": "mlr3proba",
     "url": "https://github.com/mlr-org/mlr3proba",
     "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "mlr3proba",
-    "url": "https://github.com/mlr-org/mlr3proba",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "mlr3spatiotempcv",
-    "url": "https://github.com/mlr-org/mlr3spatiotempcv",
-    "via": ["geocompkg"],
     "from": "geocompkg"
   },
   {
@@ -103,20 +79,8 @@
     "from": "geocompkg"
   },
   {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
     "package": "qgisprocess",
-    "url": "https://github.com/paleolimbot/qgisprocess",
+    "url": "https://github.com/r-spatial/qgisprocess",
     "via": ["geocompkg"],
     "from": "geocompkg"
   },
@@ -190,30 +154,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "distr6", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba"],
     "from": "geocompkg"
   },
   {
