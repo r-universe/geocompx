@@ -6,34 +6,9 @@
     "from": "geocompkg"
   },
   {
-    "package": "catboost",
-    "url": "https://github.com/catboost/catboost",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "subdir": "catboost/R-package",
-    "from": "geocompkg"
-  },
-  {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3proba"],
     "from": "geocompkg"
   },
   {
@@ -49,57 +24,9 @@
     "from": "geocompkg"
   },
   {
-    "package": "mlr3proba",
-    "url": "https://github.com/mlr-org/mlr3proba",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["geocompkg", "mlr3extralearners", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/RaphaelS1/param6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3proba"],
     "from": "geocompkg"
   },
   {
@@ -112,102 +39,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["geocompkg", "mlr3extralearners", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "distr6", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels", "distr6", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/RaphaelS1/set6",
-    "via": ["geocompkg", "mlr3extralearners", "survivalmodels"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "distr6", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "param6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "spDataLarge",
-    "url": "https://github.com/Nowosad/spDataLarge",
-    "via": ["geocompkg", "qgisprocess"],
     "from": "geocompkg"
   },
   {
