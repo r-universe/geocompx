@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/geocompx/universe
 	branch = HEAD
-[submodule "geocompkg"]
-	path = geocompkg
-	url = https://github.com/geocompx/geocompkg
 [submodule "CoxBoost"]
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
@@ -13,6 +10,9 @@
 	path = distr6
 	url = https://github.com/alan-turing-institute/distr6
 	registered = false
+[submodule "geocompkg"]
+	path = geocompkg
+	url = https://github.com/geocompx/geocompkg
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
