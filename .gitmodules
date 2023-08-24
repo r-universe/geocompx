@@ -25,10 +25,6 @@
 	path = param6
 	url = https://github.com/xoopR/param6
 	registered = false
-[submodule "qgisprocess"]
-	path = qgisprocess
-	url = https://github.com/r-spatial/qgisprocess
-	registered = false
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopR/set6

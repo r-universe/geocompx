@@ -30,12 +30,6 @@
     "from": "geocompkg"
   },
   {
-    "package": "qgisprocess",
-    "url": "https://github.com/r-spatial/qgisprocess",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["geocompkg", "mlr3extralearners", "distr6"],
