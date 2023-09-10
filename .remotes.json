@@ -46,5 +46,11 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
+  },
+  {
+    "package": "tmap",
+    "url": "https://github.com/r-tmap/tmap",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
   }
 ]
