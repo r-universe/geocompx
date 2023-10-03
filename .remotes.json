@@ -6,8 +6,14 @@
     "from": "geocompkg"
   },
   {
+    "package": "cols4all",
+    "url": "https://github.com/mtennekes/cols4all",
+    "via": ["geocompkg", "tmap"],
+    "from": "geocompkg"
+  },
+  {
     "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
+    "url": "https://github.com/xoopR/distr6",
     "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
   },
@@ -51,6 +57,12 @@
     "package": "tmap",
     "url": "https://github.com/r-tmap/tmap",
     "via": ["geocompkg"],
+    "from": "geocompkg"
+  },
+  {
+    "package": "tmaptools",
+    "url": "https://github.com/r-tmap/tmaptools",
+    "via": ["geocompkg", "tmap"],
     "from": "geocompkg"
   }
 ]
