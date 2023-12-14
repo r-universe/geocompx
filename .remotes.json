@@ -6,6 +6,13 @@
     "from": "geocompkg"
   },
   {
+    "package": "catboost",
+    "url": "https://github.com/catboost/catboost",
+    "via": ["geocompkg", "mlr3extralearners"],
+    "subdir": "catboost/R-package",
+    "from": "geocompkg"
+  },
+  {
     "package": "cols4all",
     "url": "https://github.com/mtennekes/cols4all",
     "via": ["geocompkg", "tmap"],
@@ -14,7 +21,7 @@
   {
     "package": "distr6",
     "url": "https://github.com/xoopR/distr6",
-    "via": ["geocompkg", "mlr3extralearners"],
+    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
     "from": "geocompkg"
   },
   {
@@ -32,13 +39,19 @@
   {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners", "distr6"],
+    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6"],
+    "from": "geocompkg"
+  },
+  {
+    "package": "randomPlantedForest",
+    "url": "https://github.com/PlantedML/randomPlantedForest",
+    "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
   },
   {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "distr6"],
+    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6"],
     "from": "geocompkg"
   },
   {
