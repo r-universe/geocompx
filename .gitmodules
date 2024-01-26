@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/geocompx/universe
+	url = https://github.com/geocompx/geocompx.r-universe.dev
 	branch = HEAD
 [submodule "CoxBoost"]
 	path = CoxBoost
