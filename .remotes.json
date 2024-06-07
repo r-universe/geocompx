@@ -6,16 +6,16 @@
     "from": "geocompkg"
   },
   {
+    "package": "aorsf",
+    "url": "https://github.com/ropensci/aorsf",
+    "via": ["geocompkg", "mlr3extralearners"],
+    "from": "geocompkg"
+  },
+  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["geocompkg", "mlr3extralearners"],
     "subdir": "catboost/R-package",
-    "from": "geocompkg"
-  },
-  {
-    "package": "cols4all",
-    "url": "https://github.com/mtennekes/cols4all",
-    "via": ["geocompkg", "tmap"],
     "from": "geocompkg"
   },
   {
@@ -70,12 +70,6 @@
     "package": "tmap",
     "url": "https://github.com/r-tmap/tmap",
     "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "tmaptools",
-    "url": "https://github.com/r-tmap/tmaptools",
-    "via": ["geocompkg", "tmap"],
     "from": "geocompkg"
   }
 ]
