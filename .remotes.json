@@ -25,6 +25,12 @@
     "from": "geocompkg"
   },
   {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["geocompkg", "mlr3extralearners"],
+    "from": "geocompkg"
+  },
+  {
     "package": "mlr3extralearners",
     "url": "https://github.com/mlr-org/mlr3extralearners",
     "via": ["geocompkg"],
