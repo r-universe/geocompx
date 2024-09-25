@@ -29,6 +29,7 @@
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
+	branch = v0.9.0
 	registered = false
 [submodule "mlr3proba"]
 	path = mlr3proba
