@@ -34,7 +34,6 @@
     "package": "mlr3extralearners",
     "url": "https://github.com/mlr-org/mlr3extralearners",
     "via": ["geocompkg"],
-    "branch": "v0.9.0",
     "from": "geocompkg"
   },
   {
