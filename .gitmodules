@@ -64,7 +64,7 @@
 	registered = false
 [submodule "tmapbook"]
 	path = tmapbook
-	url = https://github.com/geocompx/tmap
+	url = https://github.com/geocompx/tmapbook
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/r-tmap/tmaptools
