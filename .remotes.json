@@ -77,5 +77,17 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
+  },
+  {
+    "package": "tmap",
+    "url": "https://github.com/r-tmap/tmap",
+    "via": ["tmapbook"],
+    "from": "tmapbook"
+  },
+  {
+    "package": "tmaptools",
+    "url": "https://github.com/r-tmap/tmaptools",
+    "via": ["tmapbook"],
+    "from": "tmapbook"
   }
 ]
