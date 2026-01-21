@@ -78,5 +78,11 @@
     "url": "https://github.com/r-tmap/tmaptools",
     "via": ["tmapbook"],
     "from": "tmapbook"
+  },
+  {
+    "package": "z22",
+    "url": "https://github.com/jslth/z22",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
   }
 ]

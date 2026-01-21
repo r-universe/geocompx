@@ -62,3 +62,7 @@
 	path = tmaptools
 	url = https://github.com/r-tmap/tmaptools
 	registered = false
+[submodule "z22"]
+	path = z22
+	url = https://github.com/jslth/z22
+	registered = false
