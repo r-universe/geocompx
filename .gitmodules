@@ -2,63 +2,9 @@
 	path = .registry
 	url = https://github.com/geocompx/geocompx.r-universe.dev
 	branch = HEAD
-[submodule "catboost"]
-	path = catboost
-	url = https://github.com/catboost/catboost
-	subdir = catboost/R-package
-	registered = false
-[submodule "coxed"]
-	path = coxed
-	url = https://github.com/jkropko/coxed
-	branch = bc92e25
-	registered = false
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/xoopR/distr6
-	registered = false
 [submodule "geocompkg"]
 	path = geocompkg
 	url = https://github.com/geocompx/geocompkg
-[submodule "mlr3cmprsk"]
-	path = mlr3cmprsk
-	url = https://github.com/mlr-org/mlr3cmprsk
-	registered = false
-[submodule "mlr3extralearners"]
-	path = mlr3extralearners
-	url = https://github.com/mlr-org/mlr3extralearners
-	registered = false
-[submodule "mlr3proba"]
-	path = mlr3proba
-	url = https://github.com/mlr-org/mlr3proba
-	registered = false
-[submodule "param6"]
-	path = param6
-	url = https://github.com/xoopR/param6
-	registered = false
-[submodule "set6"]
-	path = set6
-	url = https://github.com/xoopR/set6
-	registered = false
-[submodule "spDataLarge"]
-	path = spDataLarge
-	url = https://github.com/nowosad/spDataLarge
-	registered = false
-[submodule "survdistr"]
-	path = survdistr
-	url = https://github.com/mlr-org/survdistr
-	registered = false
-[submodule "survivalmodels"]
-	path = survivalmodels
-	url = https://github.com/RaphaelS1/survivalmodels
-	registered = false
-[submodule "tmap"]
-	path = tmap
-	url = https://github.com/r-tmap/tmap
-	registered = false
 [submodule "tmapbook"]
 	path = tmapbook
 	url = https://github.com/geocompx/tmapbook
-[submodule "tmaptools"]
-	path = tmaptools
-	url = https://github.com/r-tmap/tmaptools
-	registered = false
