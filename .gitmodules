@@ -5,6 +5,9 @@
 [submodule "geocompkg"]
 	path = geocompkg
 	url = https://github.com/geocompx/geocompkg
+[submodule "spDataLarge"]
+	path = spDataLarge
+	url = https://github.com/nowosad/spDataLarge
 [submodule "tmapbook"]
 	path = tmapbook
 	url = https://github.com/geocompx/tmapbook
